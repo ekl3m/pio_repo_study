@@ -12,3 +12,6 @@ pom.xml.backup
 
 # Ignorowanie plików z logami Mavena
 mvnLog.log
+
+# Ignorowanie katalogu rozszerzenia trunk
+trunk/
