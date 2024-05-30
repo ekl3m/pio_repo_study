@@ -14,4 +14,4 @@ pom.xml.backup
 mvnLog.log
 
 # Ignorowanie katalogu rozszerzenia trunk
-trunk/
+.trunk/
